@@ -21,5 +21,5 @@
 
 4°) Ejecutar BIQUI
 Nota
-Para ejecutar en la consola de Python copiar la direccion absoluta (ABS ,en Pycharm con click derecho sobre BUIQUI.py e ir a copiar direccion/direccion absoluta) y ejecutar en la consola "%run ABS" (sin las " y sin el .py)
+Para ejecutar en la consola de Python copiar la direccion absoluta (ABS ,en Pycharm  con click derecho sobre BUIQUI.py e ir a copiar direccion/direccion absoluta) y ejecutar en la consola "%run ABS" (sin las " y sin el .py)
 
