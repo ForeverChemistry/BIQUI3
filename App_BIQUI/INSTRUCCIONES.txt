@@ -1,0 +1,25 @@
+1°) Mover toda la carpeta App_BIQUI al directorio de trabajo de Python
+
+2°) Instalar los paquetes de Python 3.7:
+	- pandas
+	- numpy
+	- regex
+	- requests_html
+	- bs4 (BeautifulSoup)
+	- time
+	- json
+	- scrapy
+	- nltk
+	- spacy ( instalar además el paquete de lenguaje español es_core_news_sm a traves de pip --> instrucciones en https://spacy.io/models/es )
+	- sklearn
+	- matplotlib
+	- tkinter
+	- PIL
+	- webbrowser
+
+3°) Bajar el archivo de chat de Whatsapp en .txt -->en el chat de whatsapp --> :/Más/Exportar chat
+
+4°) Ejecutar BIQUI
+Nota
+Para ejecutar en la consola de Python copiar la direccion absoluta (ABS ,en Pycharm con click derecho sobre BUIQUI.py e ir a copiar direccion/direccion absoluta) y ejecutar en la consola "%run ABS" (sin las " y sin el .py)
+
